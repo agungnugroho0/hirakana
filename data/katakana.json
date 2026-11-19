@@ -1,0 +1,542 @@
+[
+    {
+        "kana": "ア",
+        "romaji": "a",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "イ",
+        "romaji": "i",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "ウ",
+        "romaji": "u",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "エ",
+        "romaji": "e",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "オ",
+        "romaji": "o",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "カ",
+        "romaji": "ka",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "キ",
+        "romaji": "ki",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "ク",
+        "romaji": "ku",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "ケ",
+        "romaji": "ke",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "コ",
+        "romaji": "ko",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "サ",
+        "romaji": "sa",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "シ",
+        "romaji": "shi",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "ス",
+        "romaji": "su",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "セ",
+        "romaji": "se",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "ソ",
+        "romaji": "so",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "タ",
+        "romaji": "ta",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "チ",
+        "romaji": "chi",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "ツ",
+        "romaji": "tsu",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "テ",
+        "romaji": "te",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "ト",
+        "romaji": "to",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "ナ",
+        "romaji": "na",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ニ",
+        "romaji": "ni",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ヌ",
+        "romaji": "nu",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ネ",
+        "romaji": "ne",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ノ",
+        "romaji": "no",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ハ",
+        "romaji": "ha",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ヒ",
+        "romaji": "hi",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "フ",
+        "romaji": "fu",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ヘ",
+        "romaji": "he",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ホ",
+        "romaji": "ho",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "マ",
+        "romaji": "ma",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "ミ",
+        "romaji": "mi",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "ム",
+        "romaji": "mu",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "メ",
+        "romaji": "me",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "モ",
+        "romaji": "mo",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "ヤ",
+        "romaji": "ya",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "ユ",
+        "romaji": "yu",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "ヨ",
+        "romaji": "yo",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "ラ",
+        "romaji": "ra",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "リ",
+        "romaji": "ri",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "ル",
+        "romaji": "ru",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "レ",
+        "romaji": "re",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "ロ",
+        "romaji": "ro",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "ワ",
+        "romaji": "wa",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "wa"
+    },
+    {
+        "kana": "ヲ",
+        "romaji": "wo",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "wa"
+    },
+    {
+        "kana": "ン",
+        "romaji": "n",
+        "type": "katakana",
+        "category": "basic",
+        "kelompok": "n"
+    },
+    {
+        "kana": "ガ",
+        "romaji": "ga",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ギ",
+        "romaji": "gi",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "グ",
+        "romaji": "gu",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ゲ",
+        "romaji": "ge",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ゴ",
+        "romaji": "go",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ザ",
+        "romaji": "za",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ジ",
+        "romaji": "ji",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ズ",
+        "romaji": "zu",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ゼ",
+        "romaji": "ze",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ゾ",
+        "romaji": "zo",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ダ",
+        "romaji": "da",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ヂ",
+        "romaji": "ji",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ヅ",
+        "romaji": "zu",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "デ",
+        "romaji": "de",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ド",
+        "romaji": "do",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "バ",
+        "romaji": "ba",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ビ",
+        "romaji": "bi",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ブ",
+        "romaji": "bu",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ベ",
+        "romaji": "be",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ボ",
+        "romaji": "bo",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "パ",
+        "romaji": "pa",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ピ",
+        "romaji": "pi",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "プ",
+        "romaji": "pu",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ペ",
+        "romaji": "pe",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ポ",
+        "romaji": "po",
+        "type": "katakana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {"kana":"キャ","romaji":"kya","type":"katakana","category":"yoon","kelompok":"kya"},
+    {"kana":"キュ","romaji":"kyu","type":"katakana","category":"yoon","kelompok":"kya"},
+    {"kana":"キョ","romaji":"kyo","type":"katakana","category":"yoon","kelompok":"kya"},
+
+    {"kana":"シャ","romaji":"sha","type":"katakana","category":"yoon","kelompok":"sha"},
+    {"kana":"シュ","romaji":"shu","type":"katakana","category":"yoon","kelompok":"sha"},
+    {"kana":"ショ","romaji":"sho","type":"katakana","category":"yoon","kelompok":"sha"},
+
+    {"kana":"チャ","romaji":"cha","type":"katakana","category":"yoon","kelompok":"cha"},
+    {"kana":"チュ","romaji":"chu","type":"katakana","category":"yoon","kelompok":"cha"},
+    {"kana":"チョ","romaji":"cho","type":"katakana","category":"yoon","kelompok":"cha"},
+
+    {"kana":"ニャ","romaji":"nya","type":"katakana","category":"yoon","kelompok":"nya"},
+    {"kana":"ニュ","romaji":"nyu","type":"katakana","category":"yoon","kelompok":"nya"},
+    {"kana":"ニョ","romaji":"nyo","type":"katakana","category":"yoon","kelompok":"nya"},
+
+    {"kana":"ヒャ","romaji":"hya","type":"katakana","category":"yoon","kelompok":"hya"},
+    {"kana":"ヒュ","romaji":"hyu","type":"katakana","category":"yoon","kelompok":"hya"},
+    {"kana":"ヒョ","romaji":"hyo","type":"katakana","category":"yoon","kelompok":"hya"},
+
+    {"kana":"ミャ","romaji":"mya","type":"katakana","category":"yoon","kelompok":"mya"},
+    {"kana":"ミュ","romaji":"myu","type":"katakana","category":"yoon","kelompok":"mya"},
+    {"kana":"ミョ","romaji":"myo","type":"katakana","category":"yoon","kelompok":"mya"},
+
+    {"kana":"リャ","romaji":"rya","type":"katakana","category":"yoon","kelompok":"rya"},
+    {"kana":"リュ","romaji":"ryu","type":"katakana","category":"yoon","kelompok":"rya"},
+    {"kana":"リョ","romaji":"ryo","type":"katakana","category":"yoon","kelompok":"rya"},
+
+    {"kana":"ギャ","romaji":"gya","type":"katakana","category":"yoon","kelompok":"gya"},
+    {"kana":"ギュ","romaji":"gyu","type":"katakana","category":"yoon","kelompok":"gya"},
+    {"kana":"ギョ","romaji":"gyo","type":"katakana","category":"yoon","kelompok":"gya"},
+
+    {"kana":"ジャ","romaji":"ja","type":"katakana","category":"yoon","kelompok":"ja"},
+    {"kana":"ジュ","romaji":"ju","type":"katakana","category":"yoon","kelompok":"ja"},
+    {"kana":"ジョ","romaji":"jo","type":"katakana","category":"yoon","kelompok":"ja"},
+
+    {"kana":"ビャ","romaji":"bya","type":"katakana","category":"yoon","kelompok":"bya"},
+    {"kana":"ビュ","romaji":"byu","type":"katakana","category":"yoon","kelompok":"bya"},
+    {"kana":"ビョ","romaji":"byo","type":"katakana","category":"yoon","kelompok":"bya"},
+
+    {"kana":"ピャ","romaji":"pya","type":"katakana","category":"yoon","kelompok":"pya"},
+    {"kana":"ピュ","romaji":"pyu","type":"katakana","category":"yoon","kelompok":"pya"},
+    {"kana":"ピョ","romaji":"pyo","type":"katakana","category":"yoon","kelompok":"pya"}
+]

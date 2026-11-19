@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hirakata</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+    <style>
+        .kelompok {
+            aspect-ratio: 3 / 4;
+            min-height: 125px;
+            background: white;
+            border-radius: 14px;
+            padding: 10px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+
+            color: #111827;
+            font-weight: bold;
+            cursor: pointer;
+
+            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+            transition: all 0.2s ease;
+        }
+
+        .kelompok:hover {
+            transform: translateY(-7px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .kelompok:active {
+            transform: scale(0.95);
+        }
+
+        .kelompok .kana {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: clamp(30px, 4vw, 48px);
+        }
+
+        .kelompok .nama {
+            font-size: 12px;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        @media (max-width: 480px) {
+            .kelompok {
+                min-height: 105px;
+                padding: 7px;
+            }
+
+            .kelompok .nama {
+                font-size: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="hira" data-kana="katakana"></div>
+
+    <div class="min-h-screen flex justify-center items-center bg-gradient-to-r from-black to-gray-950 p-4">
+
+        <!-- KARTU -->
+        <div class="card hidden"></div>
+
+        <!-- PILIHAN KATEGORI -->
+        <div class="p-6 text-center wadah w-full max-w-5xl py-8">
+
+            <h1 class="text-3xl md:text-4xl font-bold text-white text-center mb-8">
+                SILAHKAN PILIH KATEGORI KATAKANA
+            </h1>
+
+            <!-- GOJUON -->
+            <h2 class="text-white font-bold text-lg mb-3">GOJUON</h2>
+
+            <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3 mb-6">
+
+                <div class="kelompok" data-category="basic" data-kelompok="a">
+                    <span class="kana">ア</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ka">
+                    <span class="kana">カ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="sa">
+                    <span class="kana">サ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ta">
+                    <span class="kana">タ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="na">
+                    <span class="kana">ナ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ha">
+                    <span class="kana">ハ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ma">
+                    <span class="kana">マ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ya">
+                    <span class="kana">ヤ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ra">
+                    <span class="kana">ラ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="wa">
+                    <span class="kana">ワ</span>
+                    <span class="nama">GOJUON</span>
+                </div>
+
+            </div>
+
+            <!-- DAKUTEN -->
+            <h2 class="text-white font-bold text-lg mb-3">DAKUTEN</h2>
+
+            <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3 mb-6">
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="ga">
+                    <span class="kana">ガ</span>
+                    <span class="nama">DAKUTEN</span>
+                </div>
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="za">
+                    <span class="kana">ザ</span>
+                    <span class="nama">DAKUTEN</span>
+                </div>
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="da">
+                    <span class="kana">ダ</span>
+                    <span class="nama">DAKUTEN</span>
+                </div>
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="ba">
+                    <span class="kana">バ</span>
+                    <span class="nama">DAKUTEN</span>
+                </div>
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="pa">
+                    <span class="kana">パ</span>
+                    <span class="nama">DAKUTEN</span>
+                </div>
+
+            </div>
+
+            <!-- YOUON -->
+            <h2 class="text-white font-bold text-lg mb-3">YOUON</h2>
+
+            <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3">
+
+                <div class="kelompok" data-category="yoon" data-kelompok="ki">
+                    <span class="kana">キャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="syi">
+                    <span class="kana">シャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="chi">
+                    <span class="kana">チャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="nya">
+                    <span class="kana">ニャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="hya">
+                    <span class="kana">ヒャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="myu">
+                    <span class="kana">ミャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="rya">
+                    <span class="kana">リャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="gya">
+                    <span class="kana">ギャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="ja">
+                    <span class="kana">ジャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="bya">
+                    <span class="kana">ビャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="pya">
+                    <span class="kana">ピャ</span>
+                    <span class="nama">YOUON</span>
+                </div>
+
+                <div class="kelompok" data-category="" data-kelompok="">
+                    <span class="kana">Acak</span>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <script src="kana.js"></script>
+
+</body>
+</html>

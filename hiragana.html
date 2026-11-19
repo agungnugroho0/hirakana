@@ -1,0 +1,271 @@
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hirakata</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+    <style>
+        .kelompok {
+            aspect-ratio: 3 / 4;
+            min-height: 125px;
+            background: white;
+            border-radius: 14px;
+            padding: 10px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+
+            color: #111827;
+            font-weight: bold;
+            font-size: 24px;
+
+            cursor: pointer;
+            box-shadow: 0 5px 12px rgba(0,0,0,.2);
+
+            transition: all .2s ease;
+        }
+
+        .kelompok::before {
+            content: attr(data-preview);
+            align-self: flex-start;
+            font-size: 12px;
+        }
+
+        .kelompok:hover {
+            transform: translateY(-7px);
+            box-shadow: 0 12px 20px rgba(0,0,0,.3);
+        }
+
+        .kelompok:active {
+            transform: scale(.95);
+        }
+
+        .kelompok .kana {
+            font-size: clamp(30px, 4vw, 48px);
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .kelompok .nama {
+            font-size: 12px;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        @media (max-width: 480px) {
+            .kelompok {
+                min-height: 105px;
+                padding: 7px;
+            }
+
+            .kelompok .nama {
+                font-size: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="hira" data-kana="hiragana"></div>
+
+    <div class="min-h-screen flex justify-center items-center
+                bg-gradient-to-r from-black to-gray-950 p-5">
+
+        <div class="card hidden"></div>
+
+        <div class="wadah w-full max-w-5xl py-8">
+
+            <h1 class="text-3xl md:text-4xl font-bold
+                       text-white text-center mb-10 font-mono">
+                Pilih Kategori Hiragana
+            </h1>
+
+            <!-- GOJUON -->
+            <div class="mb-8">
+
+                <h2 class="text-white text-xl font-bold mb-4 text-center">
+                    GOJUON
+                </h2>
+
+                <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3">
+
+                    <div class="kelompok " data-category="basic" data-kelompok="a">
+                        <span class="kana ">あ</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ka">
+                        <span class="kana">か</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="sa">
+                        <span class="kana">さ</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ta">
+                        <span class="kana">た</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="na">
+                        <span class="kana">な</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ha">
+                        <span class="kana">は</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ma">
+                        <span class="kana">ま</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ya">
+                        <span class="kana">や</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="ra">
+                        <span class="kana">ら</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="basic" data-kelompok="wa">
+                        <span class="kana">わ</span>
+                        <span class="nama">GOJUON</span>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- DAKUTEN -->
+            <div class="mb-8">
+
+                <h2 class="text-white text-xl font-bold mb-4 text-center">
+                    DAKUTEN
+                </h2>
+
+                <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3">
+
+                    <div class="kelompok" data-category="dakuten" data-kelompok="ga">
+                        <span class="kana">が</span>
+                        <span class="nama">DAKUTEN</span>
+                    </div>
+
+                    <div class="kelompok" data-category="dakuten" data-kelompok="za">
+                        <span class="kana">ざ</span>
+                        <span class="nama">DAKUTEN</span>
+                    </div>
+
+                    <div class="kelompok" data-category="dakuten" data-kelompok="da">
+                        <span class="kana">だ</span>
+                        <span class="nama">DAKUTEN</span>
+                    </div>
+
+                    <div class="kelompok" data-category="dakuten" data-kelompok="ba">
+                        <span class="kana">ば</span>
+                        <span class="nama">DAKUTEN</span>
+                    </div>
+
+                    <div class="kelompok" data-category="dakuten" data-kelompok="pa">
+                        <span class="kana">ぱ</span>
+                        <span class="nama">DAKUTEN</span>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- YOUON -->
+            <div>
+
+                <h2 class="text-white text-xl font-bold mb-4 text-center">
+                    YOUON
+                </h2>
+
+                <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3">
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="ki">
+                        <span class="kana">きゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="syi">
+                        <span class="kana">しゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="chi">
+                        <span class="kana">ちゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="ni">
+                        <span class="kana">にゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="hi">
+                        <span class="kana">ひゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="mi">
+                        <span class="kana">みゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="ru">
+                        <span class="kana">りゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="gi">
+                        <span class="kana">ぎゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="ji">
+                        <span class="kana">じゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="bi">
+                        <span class="kana">びゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="yoon" data-kelompok="pi">
+                        <span class="kana">ぴゃ</span>
+                        <span class="nama">YOUON</span>
+                    </div>
+
+                    <div class="kelompok" data-category="" data-kelompok="">
+                        <span class="kana text-xl">🔀</span>
+                        <span class="nama">ACAK</span>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="kana.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,730 @@
+[
+    {
+        "kana": "あ",
+        "romaji": "a",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "い",
+        "romaji": "i",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "う",
+        "romaji": "u",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "え",
+        "romaji": "e",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "お",
+        "romaji": "o",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "a"
+    },
+    {
+        "kana": "か",
+        "romaji": "ka",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "き",
+        "romaji": "ki",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "く",
+        "romaji": "ku",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "け",
+        "romaji": "ke",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "こ",
+        "romaji": "ko",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ka"
+    },
+    {
+        "kana": "さ",
+        "romaji": "sa",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "し",
+        "romaji": "shi",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "す",
+        "romaji": "su",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "せ",
+        "romaji": "se",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "そ",
+        "romaji": "so",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "sa"
+    },
+    {
+        "kana": "た",
+        "romaji": "ta",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "ち",
+        "romaji": "chi",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "つ",
+        "romaji": "tsu",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "て",
+        "romaji": "te",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "と",
+        "romaji": "to",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ta"
+    },
+    {
+        "kana": "な",
+        "romaji": "na",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "に",
+        "romaji": "ni",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ぬ",
+        "romaji": "nu",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "ね",
+        "romaji": "ne",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "の",
+        "romaji": "no",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "na"
+    },
+    {
+        "kana": "は",
+        "romaji": "ha",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ひ",
+        "romaji": "hi",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ふ",
+        "romaji": "fu",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "へ",
+        "romaji": "he",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ほ",
+        "romaji": "ho",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ha"
+    },
+    {
+        "kana": "ま",
+        "romaji": "ma",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "み",
+        "romaji": "mi",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "む",
+        "romaji": "mu",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "め",
+        "romaji": "me",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "も",
+        "romaji": "mo",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ma"
+    },
+    {
+        "kana": "や",
+        "romaji": "ya",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "ゆ",
+        "romaji": "yu",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "よ",
+        "romaji": "yo",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ya"
+    },
+    {
+        "kana": "ら",
+        "romaji": "ra",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "り",
+        "romaji": "ri",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "る",
+        "romaji": "ru",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "れ",
+        "romaji": "re",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "ろ",
+        "romaji": "ro",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "ra"
+    },
+    {
+        "kana": "わ",
+        "romaji": "wa",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "wa"
+    },
+    {
+        "kana": "を",
+        "romaji": "wo",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "wa"
+    },
+    {
+        "kana": "ん",
+        "romaji": "n",
+        "type": "hiragana",
+        "category": "basic",
+        "kelompok": "wa"
+    },
+    {
+        "kana": "が",
+        "romaji": "ga",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ぎ",
+        "romaji": "gi",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ぐ",
+        "romaji": "gu",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "げ",
+        "romaji": "ge",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ご",
+        "romaji": "go",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ga"
+    },
+    {
+        "kana": "ざ",
+        "romaji": "za",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "じ",
+        "romaji": "ji",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ず",
+        "romaji": "zu",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ぜ",
+        "romaji": "ze",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "ぞ",
+        "romaji": "zo",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "za"
+    },
+    {
+        "kana": "だ",
+        "romaji": "da",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ぢ",
+        "romaji": "ji",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "づ",
+        "romaji": "zu",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "で",
+        "romaji": "de",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ど",
+        "romaji": "do",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "da"
+    },
+    {
+        "kana": "ば",
+        "romaji": "ba",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "び",
+        "romaji": "bi",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ぶ",
+        "romaji": "bu",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "べ",
+        "romaji": "be",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ぼ",
+        "romaji": "bo",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "ba"
+    },
+    {
+        "kana": "ぱ",
+        "romaji": "pa",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ぴ",
+        "romaji": "pi",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ぷ",
+        "romaji": "pu",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ぺ",
+        "romaji": "pe",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "ぽ",
+        "romaji": "po",
+        "type": "hiragana",
+        "category": "dakuten",
+        "kelompok": "pa"
+    },
+    {
+        "kana": "きゃ",
+        "romaji": "kya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ki"
+    },
+    {
+        "kana": "きゅ",
+        "romaji": "kyu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ki"
+    },
+    {
+        "kana": "きょ",
+        "romaji": "kyo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ki"
+    },
+    {
+        "kana": "しゃ",
+        "romaji": "sha",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "shi"
+    },
+    {
+        "kana": "しゅ",
+        "romaji": "shu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "shi"
+    },
+    {
+        "kana": "しょ",
+        "romaji": "sho",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "shi"
+    },
+    {
+        "kana": "ちゃ",
+        "romaji": "cha",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "chi"
+    },
+    {
+        "kana": "ちゅ",
+        "romaji": "chu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "chi"
+    },
+    {
+        "kana": "ちょ",
+        "romaji": "cho",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "chi"
+    },
+    {
+        "kana": "にゃ",
+        "romaji": "nya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ni"
+    },
+    {
+        "kana": "にゅ",
+        "romaji": "nyu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ni"
+    },
+    {
+        "kana": "にょ",
+        "romaji": "nyo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ni"
+    },
+    {
+        "kana": "ひゃ",
+        "romaji": "hya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "hi"
+    },
+    {
+        "kana": "ひゅ",
+        "romaji": "hyu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "hi"
+    },
+    {
+        "kana": "ひょ",
+        "romaji": "hyo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "hi"
+    },
+    {
+        "kana": "みゃ",
+        "romaji": "mya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "mi"
+    },
+    {
+        "kana": "みゅ",
+        "romaji": "myu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "mi"
+    },
+    {
+        "kana": "みょ",
+        "romaji": "myo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "mi"
+    },
+    {
+        "kana": "りゃ",
+        "romaji": "rya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ri"
+    },
+    {
+        "kana": "りゅ",
+        "romaji": "ryu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ri"
+    },
+    {
+        "kana": "りょ",
+        "romaji": "ryo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ri"
+    },
+    {
+        "kana": "ぎゃ",
+        "romaji": "gya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "gi"
+    },
+    {
+        "kana": "ぎゅ",
+        "romaji": "gyu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "gi"
+    },
+    {
+        "kana": "ぎょ",
+        "romaji": "gyo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "gi"
+    },
+    {
+        "kana": "じゃ",
+        "romaji": "ja",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ji"
+    },
+    {
+        "kana": "じゅ",
+        "romaji": "ju",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ji"
+    },
+    {
+        "kana": "じょ",
+        "romaji": "jo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "ji"
+    },
+    {
+        "kana": "びゃ",
+        "romaji": "bya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "bi"
+    },
+    {
+        "kana": "びゅ",
+        "romaji": "byu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "bi"
+    },
+    {
+        "kana": "びょ",
+        "romaji": "byo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "bi"
+    },
+    {
+        "kana": "ぴゃ",
+        "romaji": "pya",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "pi"
+    },
+    {
+        "kana": "ぴゅ",
+        "romaji": "pyu",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "pi"
+    },
+    {
+        "kana": "ぴょ",
+        "romaji": "pyo",
+        "type": "hiragana",
+        "category": "yoon",
+        "kelompok": "pi"
+    }
+]
